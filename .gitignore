@@ -1,0 +1,5 @@
+bin/
+build/
+xtend-gen/
+.gradle/
+xtend-gen2/
